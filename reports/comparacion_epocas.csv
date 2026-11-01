@@ -1,0 +1,5 @@
+max_epochs,model,epochs_run,best_epoch,f1_macro,accuracy,train_seconds,inference_ms_per_image,final_val_loss
+8,dense,8,8,0.8634,0.8649,7.9,0.0135,0.3538
+8,cnn,8,8,0.7892,0.793,84.9,0.0801,0.587
+20,dense,16,14,0.8717,0.8719,14.4,0.0143,0.3349
+20,cnn,20,20,0.8368,0.8388,216.1,0.0843,0.4493
